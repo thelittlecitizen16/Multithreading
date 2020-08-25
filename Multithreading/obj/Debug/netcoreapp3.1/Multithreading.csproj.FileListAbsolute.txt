@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.exe
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.deps.json
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.dll
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.pdb
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.dll
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.pdb
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.genruntimeconfig.cache
+C:\Users\thelittlecitizen16\source\repos\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csprojAssemblyReference.cache
